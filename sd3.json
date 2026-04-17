@@ -1,4 +1,4 @@
 {
   "cnx": "mongodb://localhost:27017",
-  "db": "cis"
+  "db": "user_management"
 }
